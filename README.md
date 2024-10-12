@@ -14,7 +14,7 @@ This is a simple counter application built using HTML, CSS, and JavaScript. It a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-counter.git
+   git clone https://github.com/DorukhanBekdur/Counter-Program
 
 2. Navigate to the project directory:
    ```bash
