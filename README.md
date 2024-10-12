@@ -2,6 +2,8 @@
 
 This is a simple counter application built using HTML, CSS, and JavaScript. It allows you to increment, decrement, and reset the counter value.
 
+![Screenshot_1](https://github.com/user-attachments/assets/27039a58-ec3b-47ea-962b-bd027c8a71bc)
+
 ## Features
 
 - **Increment Button**: Increases the counter value by 1.
