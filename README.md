@@ -41,3 +41,6 @@ This is a simple counter application built using HTML, CSS, and JavaScript. It a
 - **HTML5**: For the basic structure of the application.
 - **CSS3**: For styling the counter interface.
 - **JavaScript**: For handling the counter functionality.
+
+## Source
+- **BroCode**: https://www.youtube.com/@BroCodez
